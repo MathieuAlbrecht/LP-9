@@ -11,3 +11,5 @@ Ich möchte einen Passwordmanager als Desktop Applikation mit Python programmier
 ## 21.02.25
 - [x] Passwortmanager funktionen: Passwort hinzufügen/löschen/bearbeiten, Passwort in zwischenablage kopieren.
       
+## 28.02.25     
+- [ ] Login in Passwortmanager implementieren
