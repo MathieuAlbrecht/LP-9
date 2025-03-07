@@ -16,4 +16,4 @@ Ich möchte einen Passwordmanager als Desktop Applikation mit Python programmier
 
 ## 07.03.25
 - [ ] Ordnung der Buttons
-- [ ] Screensaver für macos mit Xcode
+- [ ] Notizen app für menubar für macos mit Xcode
