@@ -2,6 +2,7 @@
 
 # Planung
 Ich möchte einen Passwordmanager als Desktop Applikation mit Python programmieren. 
+Notenziele: M426: 5, M259: 5.5, M114: 5.5
 
 
 ## 14.02.25 
