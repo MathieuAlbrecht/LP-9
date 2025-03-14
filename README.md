@@ -20,5 +20,4 @@ Notenziele: M426: 5, M259: 5.5, M114: 5.5
 - [x] Notizen app für menubar für macos mit Xcode
 
 ## 14.03.25
-- [ ] Notizen App aus dem Dock entfernen
-- [ ] 
+- [x] Notizen App aus dem Dock entfernen
