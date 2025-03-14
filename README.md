@@ -15,5 +15,9 @@ Ich möchte einen Passwordmanager als Desktop Applikation mit Python programmier
 - [x] Login in Passwortmanager implementieren
 
 ## 07.03.25
-- [ ] Ordnung der Buttons
-- [ ] Notizen app für menubar für macos mit Xcode
+- [x] Ordnung der Buttons
+- [x] Notizen app für menubar für macos mit Xcode
+
+## 14.03.25
+- [ ] Notizen App aus dem Dock entfernen
+- [ ] 
