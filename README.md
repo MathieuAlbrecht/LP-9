@@ -32,5 +32,5 @@ Notenziele: M426: 5, M259: 5.5, M114: 5.5
 - [x] LA_114_1734
 
 ## 4.04.25
-- [ ] React tutiriak^l für Portfolio bearbeiten
+- [ ] React tutorial für Portfolio bearbeiten
 - [ ] Navbar und Unterseiten für Portfolio implementieren
